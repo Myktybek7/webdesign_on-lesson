@@ -1,0 +1,39 @@
+h1{
+    font-family: Fredoka;
+    color: green;
+}
+p{
+    color: green;
+}
+.first-p{
+    line-height: 2;
+    border: 5px dashed black;
+    margin: 15px;
+    padding: 15px;
+}
+.second-p{
+    line-height: 2;
+    border: 5px dashed black;
+    margin: 15px;
+    padding: 15px;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 500px;
+}
+ul{
+    color: green;
+}
+.third-p{
+    line-height: 2;
+    border: 5px dashed black;
+    margin: 15px;
+    padding: 15px;
+}
+li:hover {
+    color: black;
+}
+body{
+    background-color: beige;
+}
