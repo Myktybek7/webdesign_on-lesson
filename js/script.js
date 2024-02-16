@@ -13,10 +13,10 @@ const img2URL = "../img/pink.jpg";
 function changePhoto(event){
     let current = imgElement.getAttribute("src");
     if(current == img1URL){
-        imgElement.setAttribute("src", img1URL);
+        imgElement.setAttribute("src", img2URL);
     }
     else {
-        imgElement.setAttribute("src", img2URL)
+        imgElement.setAttribute("src", img1URL)
     }
 }
 
